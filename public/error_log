@@ -1,0 +1,2 @@
+[29-Jan-2020 08:12:30 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/uptaxbdc/public_html/api/backend/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 8
+[29-Jan-2020 08:12:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/uptaxbdc/public_html/api/backend/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 19
